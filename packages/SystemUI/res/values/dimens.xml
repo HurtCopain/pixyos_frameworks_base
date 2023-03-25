@@ -1630,4 +1630,8 @@
     <dimen name="rear_display_animation_height">200dp</dimen>
     <dimen name="rear_display_title_top_padding">24dp</dimen>
     <dimen name="rear_display_title_bottom_padding">16dp</dimen>
+    
+    <!-- Auth ripple animation duration
+         AOSP default is 1533 -->
+    <item name="auth_ripple_animation_duration" format="float" type="dimen">766.5</item>
 </resources>
